@@ -1,4 +1,4 @@
 print('Hello!!! welcome')
-a =5
-b =4
+a =15
+b =24
 print(a+b)
